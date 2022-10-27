@@ -1,1 +1,29 @@
 2.0.3
+
+RDP (Protocolo de escritorio remoto) es un protocolo de comunicaciones de red desarrollado por Microsoft, que permite a los usuarios conectarse a otra computadora desde una ubicación remota.
+
+Ubuntu XFCE/Windows
+Click here to visit colab
+https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Colab%20RDP/Colab%20RDP.ipynb
+
+Kaali Linux F-RDP
+Click here to visit Google Console
+https://console.cloud.google.com/welcome?project=storied-key-295608
+wget -O kali.sh https://raw.githubusercontent.com/efxtv/Free-RDP-Linux-Windows/main/rdp/kali.sh > /dev/null 2>&1
+chmod +x kali.sh && ./kali.sh
+
+Windows 10 Azure (2 Hours)
+Click here and login to Outlook.com
+https://learn.microsoft.com/en-us/training/modules/monitor-azure-vm-using-diagnostic-data/1-introduction
+curl -skLO is.gd/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus
+
+Windows 11 Azure (2 Hours)
+Click here and login to Outlook.com
+https://learn.microsoft.com/en-us/training/modules/monitor-azure-vm-using-diagnostic-data/1-introduction
+curl -skLO is.gd/azurewin11vm ; chmod +x azurewin11vm ; ./azurewin11vm
+
+In use: 24 hours
+
+
+
+
