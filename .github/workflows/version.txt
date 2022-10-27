@@ -6,11 +6,11 @@ Ubuntu XFCE/Windows
 Click here to visit colab
 https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Colab%20RDP/Colab%20RDP.ipynb
 
-Kaali Linux F-RDP
+Kali Linux RDP
 Click here to visit Google Console
 https://console.cloud.google.com/welcome?project=storied-key-295608
-wget -O kali.sh https://raw.githubusercontent.com/efxtv/Free-RDP-Linux-Windows/main/rdp/kali.sh > /dev/null 2>&1
-chmod +x kali.sh && ./kali.sh
+wget -O linux.sh https://raw.githubusercontent.com/Juliocj7/MyBestRDPCj7/main/src/linux.sh > /dev/null 2>&1
+chmod +x linux.sh && ./linux.sh
 
 Windows 10 Azure (2 Hours)
 Click here and login to Outlook.com
