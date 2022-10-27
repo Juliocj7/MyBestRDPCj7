@@ -22,7 +22,21 @@ Click here and login to Outlook.com
 https://learn.microsoft.com/en-us/training/modules/monitor-azure-vm-using-diagnostic-data/1-introduction
 curl -skLO is.gd/azurewin11vm ; chmod +x azurewin11vm ; ./azurewin11vm
 
+-----
+
 In use: 24 hours
+Windows Server 2019 con 2CPU(S), 7GB Ram, 256GB SSD GRATIS con Github con acceso RDP (ngrok US)
+Get token ngrok && fork
+Settings > Secrets > New repository secret
+InName: NGROK_AUTH_TOKEN && InValue: $Authtoken && Add Secret
+Action > Windows-RDP > Run workflow
+Reload Page && Windows-RDP > build > Connect To Your RPD (get IP, User, Password)
+
+In Cliente de Escritorio Remoto de Microsoft > + > Add PC
+In Nombre del Equipo: 0.tcp.ap.ngrok.io:14776 && Save
+Touch PC && add User && Pass
+
+
 
 
 
