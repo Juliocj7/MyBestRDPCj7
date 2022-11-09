@@ -2,6 +2,9 @@
 
 RDP (Protocolo de escritorio remoto) es un protocolo de comunicaciones de red desarrollado por Microsoft, que permite a los usuarios conectarse a otra computadora desde una ubicación remota.
 
+Click and play windows 10 RDP
+https://app.apponfly.com/trial
+
 Ubuntu XFCE/Windows
 Click here to visit colab
 https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Colab%20RDP/Colab%20RDP.ipynb
